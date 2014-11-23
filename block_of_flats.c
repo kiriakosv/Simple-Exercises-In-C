@@ -40,7 +40,7 @@ void surface_per_floor(void)    // epistrefei thn synolikh epifaneia ana orofo
   }
 }
 
-void print_money_per_apartment(void)   // diavazei to poso kai epistrefei gia kathe diamerisma ta koinoxrhsta pou tou analogoun
+void print_money_per_apartment(void)   // diavazei to poso kai epistrefei gia kathe diamerisma ta koinoxrhsta pou tou analogun
 {
   int i;
   float money_per_person = 0;
